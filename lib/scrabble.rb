@@ -27,5 +27,6 @@ class Scrabble
     end
 
     return score
+
   end
 end
